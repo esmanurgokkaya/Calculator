@@ -18,6 +18,10 @@ This is a basic **Calculator Application** built using C#. It allows users to pe
 5. **Get the result**: Click the `=` button to calculate the result.
 6. **Clear input**: Click the `<-` button to reset the display.
 
+## ScreenShots
+
+![Basic Calculator ScreenShots](screenshots/Ekran Görüntüsü (574).png)
+
 ## Technologies Used
 
 - **C#**
