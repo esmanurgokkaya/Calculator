@@ -20,7 +20,7 @@ This is a basic **Calculator Application** built using C#. It allows users to pe
 
 ## ScreenShots
 
-![Basic Calculator ScreenShots](screenshots/Ekran Görüntüsü (574).png)
+![Basic Calculator ScreenShots](screenshots/EkranGörüntüsü(574).png)
 
 ## Technologies Used
 
